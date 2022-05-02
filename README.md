@@ -1,6 +1,6 @@
 <div align='center'><h1> Hi, I'm Minji 👋 </h1></div>
 Welcome to my page! Nice e-meeting you 😄 <br>
-I'm Minji, Frontend Developer from South Korea 🇰🇷, currently living in USA 🇺🇸. <br>
+I'm Minji, Frontend Developer/Data Analyst from South Korea 🇰🇷, currently living in USA 🇺🇸. <br>
 <h3> 🧐 About Me </h3>
 <ul>
   <li> 🔭 I'm currently working on mastering my skills in Frontend Development!</li>
