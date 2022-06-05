@@ -23,6 +23,7 @@ I'm Minji, Frontend Developer/Data Analyst from South Korea 🇰🇷, currently 
 <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-2c8ebb.svg?&style=for-the-badge&logo=yarn&logoColor=white"/> 
 <img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00c7b7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/> 
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Cloudinary" src ="https://img.shields.io/badge/Cloudinary-3448c5.svg?&style=for-the-badge&logo=cloudinary&logoColor=white"/>
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
